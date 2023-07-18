@@ -45,13 +45,13 @@ Aquí presento algunos de los proyectos en los que he trabajado y que representa
 Si estás interesado en colaborar en un proyecto o simplemente deseas ponerte en contacto conmigo, puedes encontrarme en las siguientes plataformas:
 
 - Correo electrónico: mquispecueva1@upao.edu.pe
-- Sitio web personal: [https://manuqc-51a9e.web.app/]
-- LinkedIn: [https://www.linkedin.com/in/manuel-alberto-harim-quispe-cueva-089205220]
-- Facebook: [https://www.facebook.com/manuelalberto.harinquispecueva.79]
-- Instagram: [https://www.instagram.com/manu12.21]
+- Sitio web personal: https://manuqc-51a9e.web.app/
+- LinkedIn: https://www.linkedin.com/in/manuel-alberto-harim-quispe-cueva-089205220
+- Facebook: https://www.facebook.com/manuelalberto.harinquispecueva.79
+- Instagram: https://www.instagram.com/manu12.21
 
 No dudes en contactarme si tienes alguna pregunta, oportunidad o simplemente quieres conectarte.
 
 ¡Gracias por visitar mi portafolio!
 
-*[Manuel Quispe Cueva]*
+*Manuel Quispe Cueva*
