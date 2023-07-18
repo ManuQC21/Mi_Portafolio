@@ -1,0 +1,168 @@
+/* Color variables */
+:root {
+  --white-color: #ffffff;
+  --bg-color: #000000;
+  --gray-color: #ffffff;
+}
+
+/* Changing background color */
+body {
+  background-image: url("../images/dark.jpg");
+}
+
+/* Changing link color */
+.nav-item .nav-link {
+  color: var(--white-color);
+}    container py-5 {
+  color: black;
+}
+/* Hero section background image */
+
+#skills i {
+  height: 100px;
+  width: 100px;
+}
+
+#portfolio img {
+  height: 300px;
+  object-fit: cover;
+}
+
+#about .img,
+#about img,
+.hire-text h2 {
+  position: relative;
+}
+
+/* Timeline background line */
+#about .img::before {
+  content: "";
+  left: 50%;
+  width: 4px;
+  position: absolute;
+  height: calc(100% + 120px);
+  background: var(--gray-color);
+}
+
+#about img,
+#about .hire-text h2 {
+  width: 140px;
+}
+
+#about .hire-text h2 {
+  height: 140px;
+}
+#Curriculum * {
+  color: white;
+}
+.social-icons a {
+  width: 40px;
+  height: 40px;
+}
+.custom-bg {
+  background-color: #ff0000; /* Cambia #ff0000 por el color que desees */
+}
+footer .social-icons a {
+  width: 10px;
+  height: 10px;
+}
+
+#cv img {
+  width: 230px;
+  
+}
+#text-center{
+  color: black;
+}
+/* Contact section background image */
+.hero {
+  height: 100vh;
+  background-image: url("../images/Fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#inicio{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("../images/fondito.jpg");
+}
+#skills{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("../images/fondito.jpg");
+}
+.white-text {
+  color: white;
+}
+#portfolio{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("../images/fondito.jpg");
+}
+#about{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("../images/fondito.jpg");
+}
+.txt{
+  color: #000000;
+}
+body {
+  zoom: 0.91;
+}
+
+#contact {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-image: url("../images/fondito.jpg");
+}
+#cv{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+  background-image: url("../images/fondito.jpg");
+}
+@media screen and (max-width: 990px) {
+  #skills .card {
+    width: calc(100% / 2 - 10px) !important;
+  }
+}
+.cont {
+  /* Estilos personalizados para el nuevo contenedor */
+  color: black;
+  max-width: 1200px; /* Ajusta el valor según el ancho deseado del contenedor */
+  margin-left: auto;
+  margin-right: auto;
+}
+.contai {
+  /* Estilos personalizados para el nuevo contenedor */
+  color: white;
+  max-width: 1200px; /* Ajusta el valor según el ancho deseado del contenedor */
+  margin-left: auto;
+  margin-right: auto;
+}
+.contais {
+  /* Estilos personalizados para el nuevo contenedor */
+  color: white;
+  max-width: 2000px; /* Ajusta el valor según el ancho deseado del contenedor */
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 768px) {
+  /* Estilos para dispositivos móviles */
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  /* Estilos para tablets y pantallas más pequeñas */
+}
+
+@media (min-width: 1201px) {
+  /* Estilos para pantallas más grandes */
+}
