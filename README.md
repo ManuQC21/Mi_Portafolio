@@ -18,9 +18,9 @@ Aquí presento algunos de los proyectos en los que he trabajado y que representa
 
 ## Habilidades técnicas
 
-- Lenguajes de programación: Java, Python, C++, PHP, 
-- Herramientas y tecnologías específicas: HTML CSS Git SQL AWS Spring Framework Node.js AngularJS
-- Metodologías ágiles: Agile, Scrum
+- Lenguajes de programación: **Java, Python, C++, PHP**
+- Herramientas y tecnologías específicas: **HTML CSS Git SQL AWS Spring Framework Node.js AngularJS**
+- Metodologías ágiles: **Agile, Scrum**
 
 ## Educación y certificaciones
 
